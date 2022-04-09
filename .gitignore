@@ -9,3 +9,4 @@
 *.pt
 .ipynb_checkpoints
 .DS_Store
+/chap02/split*.txt
