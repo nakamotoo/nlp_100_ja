@@ -1,0 +1,12 @@
+.vscode
+*/*.txt*
+*.tsv
+*.gz
+*.png
+*.zip
+*.joblib
+*.bin
+*.pth
+*.pt
+.ipynb_checkpoints
+.DS_Store
