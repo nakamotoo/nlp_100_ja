@@ -10,3 +10,4 @@
 .ipynb_checkpoints
 .DS_Store
 /chap02/split*.txt
+/chap03/*.json.gz
