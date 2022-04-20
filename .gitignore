@@ -11,3 +11,5 @@
 .DS_Store
 /chap02/split*.txt
 /chap03/*.json.gz
+/chap04/neko.txt
+/chap04/neko.txt.mecab
